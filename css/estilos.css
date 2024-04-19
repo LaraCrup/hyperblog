@@ -20,6 +20,12 @@ body{
   font-weight: bold;
   margin: 0;
   padding: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+#cabecera img{
+  margin-right: 1vw;
 }
 
 #tagline{
